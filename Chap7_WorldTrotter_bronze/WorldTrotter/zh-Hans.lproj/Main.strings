@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "degree Fahrenheit"; ObjectID = "CVe-WE-2Jj"; */
+"CVe-WE-2Jj.text" = "华氏";
+
+/* Class = "UILabel"; text = "degree Celsius"; ObjectID = "J9t-sZ-cbe"; */
+"J9t-sZ-cbe.text" = "摄氏";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "aYB-59-QMT"; */
+"aYB-59-QMT.placeholder" = "值";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "dnZ-Vj-arD"; */
+"dnZ-Vj-arD.text" = "是";
+
+/* Class = "UITabBarItem"; title = "map"; ObjectID = "fAR-Kh-QV7"; */
+"fAR-Kh-QV7.title" = "地图";
+
+/* Class = "UITabBarItem"; title = "convert"; ObjectID = "lXx-uY-Ymn"; */
+"lXx-uY-Ymn.title" = "兑换";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "way-YU-WD5"; */
+"way-YU-WD5.text" = "100";
